@@ -1,5 +1,6 @@
 package my.edu.tarc.lab12extra;
 
+import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -36,9 +37,11 @@ public class MainActivity extends AppCompatActivity {
         textViewMonthlyPayment.setText(String.format("Monthly Payment\nRM %.2f", MonthlyPayment));
         if (MonthlyPayment < Salary * 0.3){
             textViewResult.setText("Congratulation, you are eligible for the car loan.");
+            textViewResult.setTextColor(Color.parseColor("#1B5E20"));
         }
         else{
             textViewResult.setText("Sorry, you are not eligible for the car loan.");
+            textViewResult.setTextColor(Color.parseColor("#F44336"));
         }
     }
 }

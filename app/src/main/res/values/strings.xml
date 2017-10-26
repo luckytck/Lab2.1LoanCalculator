@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Lab 1.2 Extra</string>
-    <string name="input_Salary">Salary</string>
+    <string name="input_salary">Monthly Salary</string>
+    <string name="input_vehiclePrice">Vehicle Price</string>
+    <string name="input_downPayment">Down Payment</string>
+    <string name="input_rate">Interest Rate (%)</string>
+    <string name="input_repaymentMonth">Repayment Month</string>
+    <string name="output_monthlyPayment">Monthly Payment</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
 </resources>
