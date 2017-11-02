@@ -5,7 +5,9 @@
     <string name="down_payment">Down Payment</string>
     <string name="interest_rate">Interest Rate (%)</string>
     <string name="repayment_month">Repayment Month</string>
-    <string name="monthly_Payment">Monthly Payment</string>
+    <string name="monthly_Payment">Monthly Payment:</string>
     <string name="calculate">Calculate</string>
     <string name="reset">Reset</string>
+    <string name="status">Status:</string>
+    <string name="close">Close</string>
 </resources>
