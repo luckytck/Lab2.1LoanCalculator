@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
         editTextRepaymentMonth.setText("");
         editTextSalary.setText("");
         editTextVehiclePrice.setText("");;
-        textViewMonthlyPayment.setText("Monthly Payment");
+        textViewMonthlyPayment.setText("Monthly Payment:");
         textViewResult.setText("");
     }
 }
