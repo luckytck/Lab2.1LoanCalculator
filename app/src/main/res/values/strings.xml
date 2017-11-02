@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">Lab 1.2 Extra</string>
-    <string name="input_salary">Monthly Salary</string>
-    <string name="input_vehiclePrice">Vehicle Price</string>
-    <string name="input_downPayment">Down Payment</string>
-    <string name="input_rate">Interest Rate (%)</string>
-    <string name="input_repaymentMonth">Repayment Month</string>
-    <string name="output_monthlyPayment">Monthly Payment</string>
+    <string name="app_name">Lab 2.1 Loan Calculator</string>
+    <string name="salary">Monthly Salary</string>
+    <string name="vehicle_price">Vehicle Price</string>
+    <string name="down_payment">Down Payment</string>
+    <string name="interest_rate">Interest Rate (%)</string>
+    <string name="repayment_month">Repayment Month</string>
+    <string name="monthly_Payment">Monthly Payment</string>
     <string name="calculate">Calculate</string>
     <string name="reset">Reset</string>
 </resources>
